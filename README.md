@@ -1,4 +1,4 @@
-# Customer_Discussion_forum
+# Customer Discussion forum
 This is Forum for Community to chat & Discuss on various problems, ups & downs, etc, discuss wisely among themselves.
 
 
